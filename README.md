@@ -1,5 +1,5 @@
 # rails_admin_panel
-This init Ruby on Rails app has precreated Bootstrap admin panel.
+This init Ruby on Rails app that has a precreated Bootstrap admin panel.
 
 ## Installation
 
